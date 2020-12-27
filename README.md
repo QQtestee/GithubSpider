@@ -1,6 +1,7 @@
 # GithubSpider
 ----
-* Config the essential constants: Github Username、password、CSV file path、CHROME Driver path.
+* Fetch the `spider.py`.
+* In the code, config the essential constants at the head: Github Username、password、CSV file path、CHROME Driver path.
 * Run `python spider.py`
 * View the log in the terminal, that it should be something like this if everthing works out fine:
 ```
@@ -38,3 +39,7 @@
 请输入字母q来退出:q
 (base) mbp:githubgrabber main$ 
 ```
+* The .csv file is expected to be as the `test.csv` provided.
+
+---
+Contact me at: mrylon@163.com
